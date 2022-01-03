@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @SouzaLuc4s
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-#🖐🏾 Olá, eu sou Lucas.
 
-<!---
-SouzaLuc4s/SouzaLuc4s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Estou aprendendo Python🐍
+
+-Estou aqui para adquirir mais informações sobre backend🐍
+<div align="center">
+  <a href="https://github.com/SouzaLuc4s">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouzaLuc4s&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaLuc4s&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+<div style="display: inline_block"><br>
+   <img align="center" alt="Lucas-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt= "Lucas-Python" heigth="70" width="80" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
