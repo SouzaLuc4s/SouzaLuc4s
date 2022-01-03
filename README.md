@@ -13,3 +13,6 @@
    <img align="center" alt= "Lucas-Python" heigth="70" width="80" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
  
  
+   ![Snake animation](https://github.com/SouzaLuc4s/SouzaLuc4s/blob/output/dist/github-contribution-grid-snake.svg)
+  
+</div>
