@@ -1,4 +1,4 @@
--#🖐🏾 Olá, eu sou Lucas.
+#🖐🏾 Olá, eu sou Lucas.
 
 -Estou aprendendo Python🐍
 
